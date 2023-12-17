@@ -1,19 +1,3 @@
-"""
-
-Contents:
-
-========================== pep8 comments=================================
-
-Functions:
--
-
-Classes:
--
-
-=============================== pep8 code =====================================
-
-"""
-
 from mlxtend.frequent_patterns import apriori
 from tqdm import tqdm
 import numpy as np
