@@ -8,7 +8,7 @@ Given recent requests, we have pushed the datasets, models and classes used in o
 
 An implementation of the [AReS](https://arxiv.org/abs/2009.07165) method is also provided, including our enhancements as detailed in Appendix C.
 
-Any questions regarding the method or implementation can be directed to Dan Ley (email address provided in the paper).
+Any questions regarding the method or implementation can be directed to Dan Ley (email address provided in the paper). Feel free also to create an issue or pull request.
 
 Please cite our paper if you find it useful in your research:
 
