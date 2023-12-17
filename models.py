@@ -2,8 +2,6 @@
 
 Contents:
 
-========================== pep8 comment limit ==========================
-
 Dictionaries containing dataset names and corresponding
 parameters used to train Deep Neural Networks (DNNs):
 -normalisers (boolean)
@@ -22,8 +20,6 @@ Functions:
 Classes:
 DNN (Deep Neural Network (DNN) implementation in PyTorch)
 DNN_trainer (class for training DNNs in PyTorch)
-
-=============================== pep8 code limit ===============================
 
 """
 
