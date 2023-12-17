@@ -6,6 +6,6 @@ From the ICML 2023 paper [GLOBE-CE: A Translation-Based Approach for Global Coun
 
 Given the recent requests, we have pushed the datasets, models and classes used in our experiments.
 
-An implementation of the [AReS](https://arxiv.org/abs/2009.07165) method is also provided (including our custom enhancements detailed in Appendix C).
+An implementation of the [AReS](https://arxiv.org/abs/2009.07165) method is also provided, including our enhancements as detailed in Appendix C.
 
-Please raise a pull request or reach out to Dan Ley directly if there are any issues (email address provided in the paper).
+Please raise a pull request or reach out to Dan Ley directly with any questions (email address provided in the paper).
