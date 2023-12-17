@@ -2,6 +2,8 @@
 
 Codebase for the paper [GLOBE-CE: A Translation-Based Approach for Global Counterfactual Explanations](https://arxiv.org/abs/2305.17021), published at ICML 2023.
 
+<img width="1308" alt="Screenshot 2023-12-17 at 2 30 08 PM" src="https://github.com/danwley/GLOBE-CE/assets/35569862/e3b6dfc3-201d-4c3f-a7b1-d48ae227b288">
+
 Given the number of recent requests for this code, we have pushed the datasets, models and classes used in our experiments.
 
 An implementation of the [AReS](https://arxiv.org/abs/2009.07165) method is also provided, including our custom enhancements (detailed in Appendix C of our work).
