@@ -1,4 +1,4 @@
-# GLOBE-CE
+# GLOBE-CE: Global & Efficient Counterfactual Explanations
 
 Codebase for the paper [GLOBE-CE: A Translation-Based Approach for Global Counterfactual Explanations](https://arxiv.org/abs/2305.17021), published at ICML 2023.
 
