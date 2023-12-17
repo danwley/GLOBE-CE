@@ -1,6 +1,6 @@
 # GLOBE-CE: Global & Efficient Counterfactual Explanations
 
-From the ICML 2023 paper [GLOBE-CE: A Translation-Based Approach for Global Counterfactual Explanations](https://arxiv.org/abs/2305.17021).
+From the ICML 2023 paper [GLOBE-CE: A Translation-Based Approach for Global Counterfactual Explanations](https://arxiv.org/abs/2305.17021) by Dan Ley, Saumitra Mishra, and Daniele Magazzeni.
 
 <img width="1308" alt="Screenshot 2023-12-17 at 2 30 08 PM" src="https://github.com/danwley/GLOBE-CE/assets/35569862/e3b6dfc3-201d-4c3f-a7b1-d48ae227b288">
 
